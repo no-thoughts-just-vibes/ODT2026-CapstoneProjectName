@@ -1,3 +1,4 @@
+# THIS IS THE ITERATION 1 OF CAPSTONE PROJECT CODE, IT HAS LDR TRIGGER > DC MOTOR MOVEMENTS
 from machine import Pin, PWM
 import time
 
@@ -25,7 +26,3 @@ while True:
         in1.value(1)
         in2.value(0)
         time.sleep(1)
-        
-        
-        
-    
