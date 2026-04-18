@@ -28,4 +28,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Parajika Sinha, Veera Malpani
