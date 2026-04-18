@@ -4,7 +4,7 @@ Kavadiyon ko Kathputli
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
+An model representing the kavad and puppetry form of storytelling from Rajasthan, i.e. a storytelling automaton depicting a kavadiyan (puppeteer) manning a show within the diorama, that represents the kavad.
 
 
 **📂 Repository Structure**
